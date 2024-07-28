@@ -9,6 +9,8 @@ public class ObjectCreation {
     String address;
 
     public static void main(String[] args) {
+
+        //Instance of class
         ObjectCreation obj1 = new ObjectCreation();
         obj1.name = "John";
         obj1.age = 18;
