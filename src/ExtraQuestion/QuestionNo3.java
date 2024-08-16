@@ -1,10 +1,10 @@
-/* Question: Convert the iterator to list*/
+package ExtraQuestion;/* Question: Convert the iterator to list*/
 
 import java.util.ArrayList; // Import the ArrayList class from the util package
 import java.util.Iterator; // Import the Iterator interface from the util package
 import java.util.List; // Import the List interface from the util package
 
-public class QuestionNo3 { // Define a public class named QuestionNo3
+public class QuestionNo3 { // Define a public class named ExtraQuestion.QuestionNo3
 
     public static void main(String[] args) { // Main method to execute the program
 
